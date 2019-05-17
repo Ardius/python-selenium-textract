@@ -1,0 +1,18 @@
+{
+       "Blocks": [
+           {
+               "Geometry": {
+                   "BoundingBox": {"Width": 1.0,"Top": 0.0,"Left": 0.0,"Height": 1.0},
+                   "Polygon": [
+                       {"Y": 0.0, "X": 0.0},
+                       {"Y": 0.0, "X": 1.0},
+                       {"Y": 1.0, "X": 1.0},
+                       {"Y": 1.0,"X": 0.0}
+                   ]
+               },
+           "Text": "Store",
+           "Confidence": "99.1231233333",
+           "BlockType": "WORD"
+       }
+       ]
+}
